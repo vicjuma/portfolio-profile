@@ -1,18 +1,15 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import {
-  IconAppStore,
   IconCodepen,
   IconExternal,
   IconFolder,
-  IconFork,
   IconGitHub,
   IconInstagram,
   IconLinkedin,
   IconLoader,
   IconLocation,
   IconLogo,
-  IconPlayStore,
   IconStar,
   IconTwitter,
   IconZap,
