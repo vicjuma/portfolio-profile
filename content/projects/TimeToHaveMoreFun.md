@@ -1,14 +1,14 @@
 ---
 date: '2020-01-10'
-title: 'Time to Have More Fun'
-github: 'https://github.com/bchiang7/time-to-have-more-fun'
-external: 'https://time-to-have-more-fun.now.sh/'
+title: 'NgRx State Management'
+github: 'https://github.com/vicjuma/pezesha-form/'
+external: 'https://vicjuma.github.io/pezesha-form/'
 tech:
-  - Next.js
-  - Tailwind CSS
-  - Firebase
+  - NgRx
+  - Angular
+  - SCSS
 company: ''
 showInProjects: true
 ---
 
-A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS
+A single pages application (SPA) that uses angular's NgRx for state management. Procedurally signs ups the user and changes the store state in the process

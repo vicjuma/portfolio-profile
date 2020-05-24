@@ -10,3 +10,5 @@ tech:
 company: 'Upstatement'
 showInProjects: false
 ---
+
+An application employing recurrent neural networks for natural language programming (NLP)

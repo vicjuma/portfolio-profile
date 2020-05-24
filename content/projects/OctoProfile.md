@@ -1,13 +1,14 @@
 ---
-date: '2019-07-15'
-title: 'OctoProfile'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+date: '2019-11-15'
+title: 'Invoice Analysis & Visualization'
+github: 'https://github.com/vicjuma/csv_to_sql_invoice_app'
+external: 'https://invoice-csv-application.herokuapp.com'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - Python-Flask 
+  - Pandas
+  - Matplotlib
+  - SQLite
 showInProjects: false
 ---
 
-A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.
+A data analysis and visualization application. It takes a CSV file as input and calculates the necessary parameters like central tendency and variation. Uses Matplotlib for data visualization
