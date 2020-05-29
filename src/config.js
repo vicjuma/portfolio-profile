@@ -9,7 +9,7 @@ module.exports = {
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Victor Oluoch',
-  location: 'Boston, MA',
+  location: 'Nairobi, Kenya',
   email: 'vicjuma945@gmail.com',
   github: 'https://github.com/vicjuma',
   twitterHandle: '@Oluoch_vee',
@@ -38,19 +38,19 @@ module.exports = {
 
   navLinks: [
     {
-      name: 'About',
+      name: 'About Me',
       url: '/#about',
     },
     {
-      name: 'Experience',
+      name: 'Work Experience',
       url: '/#jobs',
     },
     {
-      name: 'Work',
+      name: 'Projects',
       url: '/#projects',
     },
     {
-      name: 'Contact',
+      name: 'Contact Me',
       url: '/#contact',
     },
   ],
@@ -58,9 +58,9 @@ module.exports = {
   navHeight: 100,
 
   colors: {
-    green: '#64ffda',
-    navy: '#0a192f',
-    darkNavy: '#020c1b',
+    green: '#BF1736',
+    navy: '#0E2773',
+    darkNavy: '#0D1440',
   },
 
   srConfig: (delay = 200) => ({

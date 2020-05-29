@@ -17,16 +17,12 @@ import {
 
 const FormattedIcon = ({ name }) => {
   switch (name) {
-    case 'AppStore':
-      return <IconAppStore />;
     case 'Codepen':
       return <IconCodepen />;
     case 'External':
       return <IconExternal />;
     case 'Folder':
       return <IconFolder />;
-    case 'Fork':
-      return <IconFork />;
     case 'GitHub':
       return <IconGitHub />;
     case 'Instagram':
@@ -39,8 +35,6 @@ const FormattedIcon = ({ name }) => {
       return <IconLocation />;
     case 'Logo':
       return <IconLogo />;
-    case 'PlayStore':
-      return <IconPlayStore />;
     case 'Star':
       return <IconStar />;
     case 'Twitter':
