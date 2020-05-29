@@ -1,9 +1,9 @@
 module.exports = {
-  siteTitle: 'Victor Oluoch | Software Engineer',
+  siteTitle: 'Victor Oluoch | Back-End Developer',
   siteDescription:
-    'Victor Oluoch is a software engineer based in Boston, MA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    'Victor Oluoch is a passionate and self-motivated back-end developer involved in creating REST APIs and highly secure business logics',
   siteKeywords:
-    'Victor Oluoch, Victor, Oluoch, vic, software engineer, front-end engineer, web developer, javascript, northeastern',
+    'Victor Oluoch, Victor, Oluoch, vic, software engineer, backend developer, database design, web developer, javascript, designer',
   siteUrl: 'https://victoroluoch.com',
   siteLanguage: 'en_KE',
   googleAnalyticsID: 'UA-167930699-1',
