@@ -68,6 +68,7 @@ const Head = ({ metadata }) => (
     <meta name="msapplication-TileColor" content={config.colors.navy} />
     <meta name="msapplication-TileImage" content={msIcon144x144} />
     <meta name="theme-color" content={config.colors.navy} />
+    <script data-ad-client="ca-pub-2021383553629546" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   </Helmet>
 );
 
