@@ -4,10 +4,10 @@ title: 'Recipe API'
 github: 'https://github.com/vicjuma/recipeApp'
 external: ''
 tech:
-  - WordPress
-  - Timber
-  - WooCommerce
-company: 'Scout'
+  - Angular
+  - SASS
+  - Bootstrap
+company: ''
 showInProjects: true
 ---
 

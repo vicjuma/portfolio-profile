@@ -1,5 +1,5 @@
 ---
-date: '2020-01-10'
+date: '2019-01-10'
 title: 'NgRx State Management'
 github: 'https://github.com/vicjuma/pezesha-form/'
 external: 'https://vicjuma.github.io/pezesha-form/'

@@ -4,11 +4,11 @@ title: 'Invoice Analysis & Visualization'
 github: 'https://github.com/vicjuma/csv_to_sql_invoice_app'
 external: 'https://invoice-csv-application.herokuapp.com'
 tech:
-  - Python-Flask 
+  - Python-Flask
   - Pandas
   - Matplotlib
   - SQLite
-showInProjects: false
+showInProjects: true
 ---
 
 A data analysis and visualization application. It takes a CSV file as input and calculates the necessary parameters like central tendency and variation. Uses Matplotlib for data visualization

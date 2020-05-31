@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '2018-10-22'
 title: 'Recipe Application'
 cover: './demo.png'
 github: 'https://github.com/vicjuma/recipe_App'
@@ -12,4 +12,4 @@ tech:
 showInProjects: true
 ---
 
-A web app application for managing reipes. It takes inputs through an angular reactive form and saves it to a MongoDB atlas, a cloud database management platform. It uses a self-generated API to manage the different endpoints 
+A web application for managing reipes. Uses angular's reactive forms to pass form-data to the server. Consumes an API from which CRUD(Create, Read, Update, Delete) operations can be performed on the different resources on the server

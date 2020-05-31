@@ -9,7 +9,7 @@ tech:
   - JavaScript
   - Bootstrap
 company: ''
-showInProjects: false
+showInProjects: true
 ---
 
 A simple application for managing stocks and inventories. It generated daily, monthly and yearly reports and a recipt for each transaction

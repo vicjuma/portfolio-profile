@@ -6,6 +6,7 @@ external: ''
 tech:
   - Google SDK
   - Facebook SDK
+  - Angular
 company: ''
 showInProjects: true
 ---

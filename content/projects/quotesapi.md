@@ -1,12 +1,12 @@
 ---
-date: '2017-11-01'
+date: '2015-11-01'
 title: 'Quotes API'
 github: 'https://github.com/vicjuma/quotesAPI'
 external: ''
 tech:
   - React
   - QuotesAPI
-company: 'Apple'
+company: ''
 showInProjects: true
 ---
 

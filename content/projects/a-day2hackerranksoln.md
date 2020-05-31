@@ -9,4 +9,4 @@ company: ''
 showInProjects: true
 ---
 
-Hackerrank solution for working with datatypes
+Data types solution using C programming language
