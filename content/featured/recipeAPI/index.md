@@ -12,4 +12,4 @@ tech:
 showInProjects: true
 ---
 
-A web application for managing reipes. Uses angular's reactive forms to pass form-data to the server. Consumes an API from which CRUD(Create, Read, Update, Delete) operations can be performed on the different resources on the server
+A web application for managing recipes. Uses angular's reactive forms to pass form-data to the server. Consumes an API from which CRUD(Create, Read, Update, Delete) operations can be performed on the different resources on the server
