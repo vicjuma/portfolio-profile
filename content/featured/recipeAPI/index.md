@@ -1,6 +1,6 @@
 ---
 date: '2018-10-22'
-title: 'Recipe Application'
+title: 'Angular Recipe Application'
 cover: './demo.png'
 github: 'https://github.com/vicjuma/recipe_App'
 external: 'https://vicjuma.github.io/recipe_App/'

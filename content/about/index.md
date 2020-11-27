@@ -3,14 +3,12 @@ title: 'About Me'
 avatar: './me.jpg'
 skills:
   - JavaScript (ES6+)
-  - HTML, CSS & SASS
-  - React & Angular
+  - Angular 2+
   - PostgreSQL
   - Node.js
-  - WordPress
 ---
 
-Hello! I'm Victor Oluoch, a Back-end Developer based in Nairobi, Kenya.
+Hello! I'm Victor Oluoch, a Front-end Developer with Angular and vanilla javaScript
 
 I am passionate about creating web and mobile application. My goal is to always build agile and highly secure tech solutions
 
