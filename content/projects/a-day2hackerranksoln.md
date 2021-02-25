@@ -6,7 +6,7 @@ external: ''
 tech:
   - C-language
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 Data types solution using C programming language

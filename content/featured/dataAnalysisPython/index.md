@@ -1,15 +1,15 @@
 ---
-date: '2019-10-22'
-title: 'Invoice Analysis & Visualization'
-cover: './invoice_project.png'
-github: 'https://github.com/vicjuma/csv_to_sql_invoice_app'
-external: 'https://invoice-csv-application.herokuapp.com'
+date: '2020-10-22'
+title: 'Python Authentication Service and REST'
+cover: './juniorqs.png'
+github: 'https://github.com/vicjuma/'
+external: 'https://juniorqs.com/'
 tech:
   - Python-Flask
-  - Pandas
-  - Matplotlib
-  - SQLite
+  - PostgreSQL
+  - REST API
+  - HTML/CSS (Templating Engines)
 showInProjects: true
 ---
 
-A data analysis and visualization application that accepts a CSV file as input and calculates the necessary statistical parameters like central tendency(mean, mode, median) and dispersion(variance and SD). Visualizes the data using matplotlib
+A python authentication system for the company JuniorQS. Admins have elevated priviledes of adding users, creating, deleting and updating products. Other users have only read privileges

@@ -8,7 +8,7 @@ tech:
   - Pytorch
   - Keras
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 Using Recurrent Neural Networks for Natural Language Programming in deep learning
